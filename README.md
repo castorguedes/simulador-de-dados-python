@@ -2,5 +2,5 @@
 
 Um simulador de rolagem de dados bem simples utilizando python.
 
-![image](https://user-images.githubusercontent.com/51998057/149689692-e9cf9f7a-fda8-475a-9ada-228e64c7f8be.png)
+![image](https://user-images.githubusercontent.com/51998057/149689893-4025eff8-4ade-44a6-850b-e1a77c160b6b.png)
 
